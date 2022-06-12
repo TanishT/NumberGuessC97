@@ -1,1 +1,2 @@
-# NumberGuessC97
+# NumberGuessingGame
+Solution for c97 pro 
